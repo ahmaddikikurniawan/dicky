@@ -12,4 +12,16 @@ body {
   border-radius: 15px;
   box.shadow: 0 4px Bpx rgba(0,0,0,0.1);
 }
-  
+
+
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%
+}
+.kartu-profil {
+  text-align: center;
+
+.daftar-proyek {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
